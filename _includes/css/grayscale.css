@@ -250,7 +250,6 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    padding-bottom: 100px;
 }
 
 .team-section {
@@ -276,7 +275,7 @@ a:focus {
         padding-top: 200px;
     }
 
-    .download-section {
+    .team-section {
         padding: 100px 0;
     }
 
